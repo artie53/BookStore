@@ -6,6 +6,5 @@
 *.dll.config
 *.cache
 *.suo
-bin/
-obj/
-TestResults/
+BookStore/bin/
+BookStore/obj/
