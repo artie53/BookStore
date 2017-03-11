@@ -6,6 +6,6 @@
 *.dll.config
 *.cache
 *.suo
-.vs/BookStore/v14/.suo
 BookStore/bin/
 BookStore/obj/
+
