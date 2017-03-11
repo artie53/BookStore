@@ -21,4 +21,5 @@ namespace BookStore.Controllers
             // возвращаем представление
             return View();
         }
+    }
 }
